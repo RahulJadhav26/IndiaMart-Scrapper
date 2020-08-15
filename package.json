@@ -1,0 +1,26 @@
+{
+  "name": "indiamartscrapper",
+  "version": "1.0.0",
+  "description": "Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulJadhav26/IndiaMart-Scrapper.git"
+  },
+  "author": "Rahul Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulJadhav26/IndiaMart-Scrapper/issues"
+  },
+  "homepage": "https://github.com/RahulJadhav26/IndiaMart-Scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  }
+}
